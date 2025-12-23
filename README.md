@@ -42,12 +42,6 @@ Data preprocessing and cleaning were performed before visualization.
 
 ---
 
-## ▶ How to View the Project
-- Download the `.pbix` file and open it using **Power BI Desktop**
-- View the dashboard image and PDF directly on GitHub
-
----
-
 ## 🌐 Live Dashboard (Optional)
 If published on Power BI Service, the live dashboard link can be accessed below:  
 [https://app.powerbi.com/xxxxx
