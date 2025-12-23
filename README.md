@@ -42,8 +42,8 @@ Data preprocessing and cleaning were performed before visualization.
 
 ---
 
-## 🌐 Live Dashboard (Optional)
-If published on Power BI Service, the live dashboard link can be accessed below:  
+## 🌐 Live Dashboard 
+The live dashboard link can be accessed below:  
 [https://app.powerbi.com/xxxxx
 ](https://app.powerbi.com/groups/me/reports/2b30d00e-879d-42e2-a059-df524d22f328/9c585a55445295d91582?experience=power-bi)
 ---
